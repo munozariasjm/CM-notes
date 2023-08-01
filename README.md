@@ -1,15 +1,17 @@
 # Classical Mechanics
 ## For people in a hurry
 
-Preparation notes for Classical Mechanics Qualy [MIT's 8.309](https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/lecture-notes/)
+Preparation notes for Classical Mechanics Qualy [MIT's 8.309](https://ocw.mit.|edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/lecture-notes/).
+
+---
 
 ## Table of Contents
 
 1. **Analytical Mechanics**
-   1. [Mechanical Approaches](notes/01_analytical_mechanics/01_mechanics.ipynb)
-   2. [Conservations and Noether's Theorem](notes/01_analytical_mechanics/02_noether.ipynb)
-   3. [Constrains](notes/01_analytical_mechanics/03_constrains_and_forces.ipynb)
-   4. [Lagrange Multipliers](notes/01_analytical_mechanics/04_multipliers.ipynb)
+   1. [Mechanical Approaches.](notes/01_analytical_mechanics/01_mechanics.ipynb)
+   2. [Conservations and Noether's Theorem.](notes/01_analytical_mechanics/02_noether.ipynb)
+   3. [Constrains and Non conservative forces.](notes/01_analytical_mechanics/03_constrains_and_forces.ipynb)
+   4. [Lagrange Multipliers.](notes/01_analytical_mechanics/04_multipliers.ipynb)
 2. **Rigid Body Dynamics**
    1. WIP
 
